@@ -1,0 +1,2 @@
+- kode sudang fungsi semua kecuali bagian api_tampil.php dan api_ubah.php
+- rencaran updata silahkan bebas
