@@ -112,7 +112,7 @@ $result = $conn->query($query);
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
-                        <form id="editForm" method="POST" action="/../api/api_edit.php">
+                        <form id="editForm" method="POST" action="http://localhost/Latihan_CRUD/api/api_edit.php">
                             <input type="hidden" id="edit-id" name="id">
                             <div class="mb-3">
                                 <label for="edit-nama" class="form-label">Nama</label>
